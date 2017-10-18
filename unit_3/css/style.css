@@ -11,11 +11,13 @@ element.style {
 
 Header{
 	background-color: #ffffff;
+	text-align: center;
 	padding: 40px;
 }
 h1 {
 	font-family: "Ultra", serif;
-	font-size: 24px;
+	text-align: center;
+	font-size: 36px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -24,7 +26,9 @@ h1 {
 
 h4 {
 	font-family: "Open Sans", sans-serif;
-	font-size: 14px;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 10px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
@@ -34,6 +38,7 @@ h4 {
 
 body{
 	font-family: "Open Sans", sans-serif;
+	text-align: center;
 	font-size: 14px;
 	color: #222222;
 	line-height: 1.3;
