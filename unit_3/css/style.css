@@ -22,7 +22,7 @@ h1 {
 	line-height: 26.4px;
 }
 
-p {
+h4 {
 	font-family: "Open Sans", sans-serif;
 	font-size: 14px;
 	font-style: normal;
@@ -30,6 +30,7 @@ p {
 	font-weight: normal;
 	color: #222222;
 	line-height: 20px;
+}
 
 body{
 	font-family: "Open Sans", sans-serif;
