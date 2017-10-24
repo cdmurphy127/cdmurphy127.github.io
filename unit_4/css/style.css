@@ -11,7 +11,8 @@ element.style {
 Header{
 	background-color: #ffffff;
 	text-align: center;
-	Line-height:1em;
+	font-size: 400px;
+	line-height:1em; 
 	padding: 3em;
 }
 h1 {
@@ -22,6 +23,19 @@ h1 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+}
+
+	h2 {
+	font-family: 'Domine', serif;
+	text-align: center;
+	text-transform: none;
+	font-size: 48px;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #222222;
+	line-height: 20px;
 }
 
 h4 {
